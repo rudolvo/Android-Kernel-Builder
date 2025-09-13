@@ -1,7 +1,7 @@
 [  {
     "kernelSource": {
       "name": "Ngetes",
-      "repo": "https://github.com/donvito007/kernel_xiaomi_sm8350-1",
+      "repo": "https://github.com/rudolvo/kernel_KangarooX_sm8350",
       "branch": "main",
       "device": "vili"
     },
